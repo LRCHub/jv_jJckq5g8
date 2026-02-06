@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ギジコイ",
+  "base_artist": "浜野 はるき",
+  "createdAt": "2026-02-06T01:33:11.691468Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ギジコイ",
+      "artist": "浜野はるき",
+      "has_synced": true,
+      "path": "select/01_ギジコイ_浜野はるき.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ギジコイ",
+      "artist": "浜野はるき",
+      "has_synced": true,
+      "path": "select/02_ギジコイ_浜野はるき.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ギジコイ - Giji Koi",
+      "artist": "Haruki Hamano",
+      "has_synced": true,
+      "path": "select/03_ギジコイ_-_Giji_Koi_Haruki_Hamano.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ギジコイ",
+      "artist": "浜野 はるき",
+      "has_synced": false,
+      "path": "select/pl_01_ギジコイ_浜野_はるき.txt"
+    }
+  ]
+}
